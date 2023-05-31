@@ -1,6 +1,6 @@
 # Foody 🍔🌴☕️
 
-CloseBuy is a web-based application built with Vue.js. The application allows users to search for nearby places such as
+Foody is a web-based application built with Vue.js. The application allows users to search for nearby places such as
 restaurants, parks, and cafes within a certain radius.
 
 ## Features 🚀
