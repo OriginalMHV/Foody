@@ -1,14 +1,7 @@
 <template>
-  <CloseBuy />
+  <nav>
+    <router-link to="/closebuy">Home</router-link> |
+  </nav>
+  <router-view/>
 </template>
 
-<script>
-import CloseBuy from './components/CloseBuy.vue'
-
-export default {
-  name: 'App',
-  components: {
-    CloseBuy
-  }
-}
-</script>
